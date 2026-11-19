@@ -1,0 +1,5 @@
+Topic,Collection_ID,Total_Count_Response,Time_Records,Sources_Returned,Sample_Stories,Status
+Stock_Market,38379429,,0,0,0,"Failed: HTTPSConnectionPool(host='search.mediacloud.org', port=443): Read timed out. (read timeout=60)"
+Monetary_Policy,38379429,"{'relevant': 876703, 'total': 72412408}",2149,100,100,Success
+Macroeconomics,38379429,,0,0,0,"Failed: HTTPSConnectionPool(host='search.mediacloud.org', port=443): Read timed out. (read timeout=60)"
+Financial_Crisis,38379429,,0,0,0,"Failed: HTTPSConnectionPool(host='search.mediacloud.org', port=443): Read timed out. (read timeout=60)"
